@@ -2,8 +2,8 @@
   "quotes": [
     {
       "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
+      "quote": "winner gets ice cream!",
+      "author": "seth"
     },
     {
       "id": 2,
@@ -54,6 +54,11 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "good quote",
+      "author": "adam",
+      "id": 12
     }
   ],
   "likes": [
@@ -66,6 +71,105 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 2,
+      "id": 3
+    },
+    {
+      "quoteId": 2,
+      "id": 4
+    },
+    {
+      "quoteId": 3,
+      "id": 5
+    },
+    {
+      "quoteId": 3,
+      "id": 6
+    },
+    {
+      "quoteId": 4,
+      "id": 7
+    },
+    {
+      "quoteId": 1,
+      "id": 8
+    },
+    {
+      "quoteId": 1,
+      "id": 9
+    },
+    {
+      "quoteId": 5,
+      "id": 10
+    },
+    {
+      "quoteId": 5,
+      "id": 11
+    },
+    {
+      "quoteId": 5,
+      "id": 12
+    },
+    {
+      "quoteId": 2,
+      "id": 13
+    },
+    {
+      "quoteId": 1,
+      "createdAt": "Tue Aug 10 2021 19:27:07 GMT-0400 (Eastern Daylight Time)",
+      "id": 14
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1628638039475,
+      "id": 15
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1628638051864,
+      "id": 16
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1628638053210,
+      "id": 17
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1628638055569,
+      "id": 18
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1628639336504,
+      "id": 19
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1628639337755,
+      "id": 20
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1628639358957,
+      "id": 21
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1628639452176,
+      "id": 22
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1628639456338,
+      "id": 23
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1628639494824,
+      "id": 24
     }
   ]
 }
